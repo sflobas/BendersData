@@ -12,74 +12,88 @@
                 "Unit": null,
                 "AttributeValues": [
                     {
-                        "Name": "productname",
+                        "Name": "Varenavn",
                         "Value": "Palema Solar 25-28",
-                        "Type": 5
+                        "Type": 5,
+                        "KeyName": "productname"
                     },
                     {
-                        "Name": "battenrequirement",
+                        "Name": "Batten requirement",
                         "Value": "25x48",
-                        "Type": 5
+                        "Type": 5,
+                        "KeyName": "battenrequirement"
                     },
                     {
-                        "Name": "itemnumber",
+                        "Name": "Varenummer",
                         "Value": "1841xx",
-                        "Type": 5
+                        "Type": 5,
+                        "KeyName": "itemnumber"
                     },
                     {
-                        "Name": "liftcapacity",
+                        "Name": "Lift capacity",
                         "Value": "1200.0000000000000000",
-                        "Type": 3
+                        "Type": 3,
+                        "KeyName": "liftcapacity"
                     },
                     {
-                        "Name": "adjustmentheight",
+                        "Name": "Adjustment height",
                         "Value": "0.0000000000000000",
-                        "Type": 3
+                        "Type": 3,
+                        "KeyName": "adjustmentheight"
                     },
                     {
-                        "Name": "loadcapacity",
+                        "Name": "Load capacity",
                         "Value": "0.0000000000000000",
-                        "Type": 3
+                        "Type": 3,
+                        "KeyName": "loadcapacity"
                     },
                     {
-                        "Name": "length",
+                        "Name": "Lengde",
                         "Value": "100",
-                        "Type": 4
+                        "Type": 4,
+                        "KeyName": "length"
                     },
                     {
-                        "Name": "weight",
+                        "Name": "Vekt",
                         "Value": "5.3",
-                        "Type": 3
+                        "Type": 3,
+                        "KeyName": "weight"
                     },
                     {
-                        "Name": "width",
+                        "Name": "Bredde",
                         "Value": "100",
-                        "Type": 4
+                        "Type": 4,
+                        "KeyName": "width"
                     },
                     {
-                        "Name": "category",
+                        "Name": "Kategori",
                         "Value": "Solarkonsoller",
-                        "Type": 5
+                        "Type": 5,
+                        "KeyName": "category"
                     },
                     {
-                        "Name": "fasteners",
+                        "Name": "Fasteners",
                         "Value": "0",
-                        "Type": 4
+                        "Type": 4,
+                        "KeyName": "fasteners"
                     },
                     {
-                        "Name": "minroofincline",
+                        "Name": "Min. roof incline",
                         "Value": "14",
-                        "Type": 4
+                        "Type": 4,
+                        "KeyName": "minroofincline"
                     },
                     {
-                        "Name": "maxroofincline",
+                        "Name": "Max. roof incline",
                         "Value": "60",
-                        "Type": 4
+                        "Type": 4,
+                        "KeyName": "maxroofincline"
                     },
                     {
-                        "Name": "height",
+                        "Name": "Høyde",
                         "Value": "0",
-                        "Type": 4
+                        "Type": 4,
+                        "KeyName": "height"
                     }
                 ],
                 "RecId": 1,
@@ -142,74 +156,88 @@
                 "Unit": null,
                 "AttributeValues": [
                     {
-                        "Name": "productname",
+                        "Name": "Varenavn",
                         "Value": "Konsoll 2",
-                        "Type": 5
+                        "Type": 5,
+                        "KeyName": "productname"
                     },
                     {
-                        "Name": "battenrequirement",
+                        "Name": "Batten requirement",
                         "Value": "30x48",
-                        "Type": 5
+                        "Type": 5,
+                        "KeyName": "battenrequirement"
                     },
                     {
-                        "Name": "itemnumber",
+                        "Name": "Varenummer",
                         "Value": "2",
-                        "Type": 5
+                        "Type": 5,
+                        "KeyName": "itemnumber"
                     },
                     {
-                        "Name": "liftcapacity",
+                        "Name": "Lift capacity",
                         "Value": "1200.0000000000000000",
-                        "Type": 3
+                        "Type": 3,
+                        "KeyName": "liftcapacity"
                     },
                     {
-                        "Name": "adjustmentheight",
+                        "Name": "Adjustment height",
                         "Value": "0.0000000000000000",
-                        "Type": 3
+                        "Type": 3,
+                        "KeyName": "adjustmentheight"
                     },
                     {
-                        "Name": "loadcapacity",
+                        "Name": "Load capacity",
                         "Value": "0.0000000000000000",
-                        "Type": 3
+                        "Type": 3,
+                        "KeyName": "loadcapacity"
                     },
                     {
-                        "Name": "length",
+                        "Name": "Lengde",
                         "Value": "100",
-                        "Type": 4
+                        "Type": 4,
+                        "KeyName": "length"
                     },
                     {
-                        "Name": "weight",
+                        "Name": "Vekt",
                         "Value": "0.5760000000000000",
-                        "Type": 3
+                        "Type": 3,
+                        "KeyName": "weight"
                     },
                     {
-                        "Name": "width",
+                        "Name": "Bredde",
                         "Value": "100",
-                        "Type": 4
+                        "Type": 4,
+                        "KeyName": "width"
                     },
                     {
-                        "Name": "category",
+                        "Name": "Kategori",
                         "Value": "Solarkonsoller",
-                        "Type": 5
+                        "Type": 5,
+                        "KeyName": "category"
                     },
                     {
-                        "Name": "fasteners",
+                        "Name": "Fasteners",
                         "Value": "0",
-                        "Type": 4
+                        "Type": 4,
+                        "KeyName": "fasteners"
                     },
                     {
-                        "Name": "minroofincline",
+                        "Name": "Min. roof incline",
                         "Value": "15",
-                        "Type": 4
+                        "Type": 4,
+                        "KeyName": "minroofincline"
                     },
                     {
-                        "Name": "maxroofincline",
+                        "Name": "Max. roof incline",
                         "Value": "60",
-                        "Type": 4
+                        "Type": 4,
+                        "KeyName": "maxroofincline"
                     },
                     {
-                        "Name": "height",
+                        "Name": "Høyde",
                         "Value": "0",
-                        "Type": 4
+                        "Type": 4,
+                        "KeyName": "height"
                     }
                 ],
                 "RecId": 2,
@@ -272,74 +300,88 @@
                 "Unit": null,
                 "AttributeValues": [
                     {
-                        "Name": "productname",
+                        "Name": "Varenavn",
                         "Value": "Konsoll 3",
-                        "Type": 5
+                        "Type": 5,
+                        "KeyName": "productname"
                     },
                     {
-                        "Name": "battenrequirement",
+                        "Name": "Batten requirement",
                         "Value": "36x48",
-                        "Type": 5
+                        "Type": 5,
+                        "KeyName": "battenrequirement"
                     },
                     {
-                        "Name": "itemnumber",
+                        "Name": "Varenummer",
                         "Value": "2",
-                        "Type": 5
+                        "Type": 5,
+                        "KeyName": "itemnumber"
                     },
                     {
-                        "Name": "liftcapacity",
+                        "Name": "Lift capacity",
                         "Value": "1200.0000000000000000",
-                        "Type": 3
+                        "Type": 3,
+                        "KeyName": "liftcapacity"
                     },
                     {
-                        "Name": "adjustmentheight",
+                        "Name": "Adjustment height",
                         "Value": "0.0000000000000000",
-                        "Type": 3
+                        "Type": 3,
+                        "KeyName": "adjustmentheight"
                     },
                     {
-                        "Name": "loadcapacity",
+                        "Name": "Load capacity",
                         "Value": "0.0000000000000000",
-                        "Type": 3
+                        "Type": 3,
+                        "KeyName": "loadcapacity"
                     },
                     {
-                        "Name": "length",
+                        "Name": "Lengde",
                         "Value": "100",
-                        "Type": 4
+                        "Type": 4,
+                        "KeyName": "length"
                     },
                     {
-                        "Name": "weight",
+                        "Name": "Vekt",
                         "Value": "0.5760000000000000",
-                        "Type": 3
+                        "Type": 3,
+                        "KeyName": "weight"
                     },
                     {
-                        "Name": "width",
+                        "Name": "Bredde",
                         "Value": "100",
-                        "Type": 4
+                        "Type": 4,
+                        "KeyName": "width"
                     },
                     {
-                        "Name": "category",
+                        "Name": "Kategori",
                         "Value": "Solarkonsoller",
-                        "Type": 5
+                        "Type": 5,
+                        "KeyName": "category"
                     },
                     {
-                        "Name": "fasteners",
+                        "Name": "Fasteners",
                         "Value": "0",
-                        "Type": 4
+                        "Type": 4,
+                        "KeyName": "fasteners"
                     },
                     {
-                        "Name": "minroofincline",
+                        "Name": "Min. roof incline",
                         "Value": "15",
-                        "Type": 4
+                        "Type": 4,
+                        "KeyName": "minroofincline"
                     },
                     {
-                        "Name": "maxroofincline",
+                        "Name": "Max. roof incline",
                         "Value": "60",
-                        "Type": 4
+                        "Type": 4,
+                        "KeyName": "maxroofincline"
                     },
                     {
-                        "Name": "height",
+                        "Name": "Høyde",
                         "Value": "0",
-                        "Type": 4
+                        "Type": 4,
+                        "KeyName": "height"
                     }
                 ],
                 "RecId": 3,
@@ -406,184 +448,220 @@
                 },
                 "AttributeValues": [
                     {
-                        "Name": "material",
+                        "Name": "Material",
                         "Value": "Stål",
-                        "Type": 5
+                        "Type": 5,
+                        "KeyName": "material"
                     },
                     {
-                        "Name": "itemnumber",
+                        "Name": "Varenummer",
                         "Value": "114972",
-                        "Type": 5
+                        "Type": 5,
+                        "KeyName": "itemnumber"
                     },
                     {
-                        "Name": "fdvdocument",
+                        "Name": "FDV dokument",
                         "Value": "",
-                        "Type": 5
+                        "Type": 5,
+                        "KeyName": "fdvdocument"
                     },
                     {
-                        "Name": "dopdocument",
+                        "Name": "DOP dokument",
                         "Value": "",
-                        "Type": 5
+                        "Type": 5,
+                        "KeyName": "dopdocument"
                     },
                     {
-                        "Name": "position",
+                        "Name": "Posisjon",
                         "Value": "ST%Lag-2|STRU%Lag-1",
-                        "Type": 5
+                        "Type": 5,
+                        "KeyName": "position"
                     },
                     {
-                        "Name": "marketingtext",
+                        "Name": "Markedstekst",
                         "Value": "<p>Solarprofil produsert i st&aring",
-                        "Type": 5
+                        "Type": 5,
+                        "KeyName": "marketingtext"
                     },
                     {
-                        "Name": "marketingtext",
+                        "Name": "Markedstekst",
                         "Value": "l med integrert skj&oslash",
-                        "Type": 5
+                        "Type": 5,
+                        "KeyName": "marketingtext"
                     },
                     {
-                        "Name": "marketingtext",
+                        "Name": "Markedstekst",
                         "Value": "t. Er et &oslash",
-                        "Type": 5
+                        "Type": 5,
+                        "KeyName": "marketingtext"
                     },
                     {
-                        "Name": "marketingtext",
+                        "Name": "Markedstekst",
                         "Value": "konomisk gunstig alternativ til aluminiumsprofil. Zink Magnesium hindrer korrosjon, og dermed kan vi levere profilene uten videre behandling. Farge p&aring",
-                        "Type": 5
+                        "Type": 5,
+                        "KeyName": "marketingtext"
                     },
                     {
-                        "Name": "marketingtext",
+                        "Name": "Markedstekst",
                         "Value": " profiler er mulig mot tillegg i prisen.&nbsp",
-                        "Type": 5
+                        "Type": 5,
+                        "KeyName": "marketingtext"
                     },
                     {
-                        "Name": "marketingtext",
+                        "Name": "Markedstekst",
                         "Value": "</p>\n",
-                        "Type": 5
+                        "Type": 5,
+                        "KeyName": "marketingtext"
                     },
                     {
-                        "Name": "materialdescription",
+                        "Name": "Materialbeskrivelse",
                         "Value": "ZM 310",
-                        "Type": 5
+                        "Type": 5,
+                        "KeyName": "materialdescription"
                     },
                     {
-                        "Name": "category",
+                        "Name": "Kategori",
                         "Value": "Profiler til skråtak",
-                        "Type": 5
+                        "Type": 5,
+                        "KeyName": "category"
                     },
                     {
-                        "Name": "category",
+                        "Name": "Kategori",
                         "Value": "Profil rett på underlag",
-                        "Type": 5
+                        "Type": 5,
+                        "KeyName": "category"
                     },
                     {
-                        "Name": "gtin",
+                        "Name": "GTIN",
                         "Value": "",
-                        "Type": 5
+                        "Type": 5,
+                        "KeyName": "gtin"
                     },
                     {
-                        "Name": "nobbnumber",
+                        "Name": "NOBB nr",
                         "Value": "",
-                        "Type": 5
+                        "Type": 5,
+                        "KeyName": "nobbnumber"
                     },
                     {
-                        "Name": "configuration",
+                        "Name": "Konfigurasjon",
                         "Value": "ZM",
-                        "Type": 5
+                        "Type": 5,
+                        "KeyName": "configuration"
                     },
                     {
-                        "Name": "description",
+                        "Name": "Beskrivelse",
                         "Value": "Solarprofil i stål",
-                        "Type": 5
+                        "Type": 5,
+                        "KeyName": "description"
                     },
                     {
-                        "Name": "productname",
+                        "Name": "Varenavn",
                         "Value": "Solarprofil ECO 50x50x2175",
-                        "Type": 5
+                        "Type": 5,
+                        "KeyName": "productname"
                     },
                     {
-                        "Name": "assemblyinstruction",
+                        "Name": "Monteringsanvisning",
                         "Value": "SOL-4-23-15 SO ECO.pdf",
-                        "Type": 5
+                        "Type": 5,
+                        "KeyName": "assemblyinstruction"
                     },
                     {
-                        "Name": "image",
+                        "Name": "Image",
                         "Value": "Microsoft.Dynamics.Commerce.Runtime.DataModel.RichMediaLocations",
-                        "Type": 41
+                        "Type": 41,
+                        "KeyName": "image"
                     },
                     {
-                        "Name": "cartonqty",
+                        "Name": "Carton qty",
                         "Value": "0",
-                        "Type": 4
+                        "Type": 4,
+                        "KeyName": "cartonqty"
                     },
                     {
-                        "Name": "fasteners",
+                        "Name": "Fasteners",
                         "Value": "2",
-                        "Type": 4
+                        "Type": 4,
+                        "KeyName": "fasteners"
                     },
                     {
-                        "Name": "fdv",
+                        "Name": "FDV",
                         "Value": "",
-                        "Type": 5
+                        "Type": 5,
+                        "KeyName": "fdv"
                     },
                     {
-                        "Name": "dopdocument",
+                        "Name": "DOP document",
                         "Value": "",
-                        "Type": 5
+                        "Type": 5,
+                        "KeyName": "dopdocument"
                     },
                     {
-                        "Name": "jointpieces",
+                        "Name": "Joint pieces",
                         "Value": "4",
-                        "Type": 4
+                        "Type": 4,
+                        "KeyName": "jointpieces"
                     },
                     {
-                        "Name": "materialproperty",
+                        "Name": "Materialegenskap",
                         "Value": "245",
-                        "Type": 4
+                        "Type": 4,
+                        "KeyName": "materialproperty"
                     },
                     {
-                        "Name": "profiletype",
+                        "Name": "Profiltype",
                         "Value": "8",
-                        "Type": 4
+                        "Type": 4,
+                        "KeyName": "profiletype"
                     },
                     {
-                        "Name": "sectionmodulus",
+                        "Name": "Section modulus",
                         "Value": "4.6000000000000000",
-                        "Type": 3
+                        "Type": 3,
+                        "KeyName": "sectionmodulus"
                     },
                     {
-                        "Name": "weight",
+                        "Name": "Vekt",
                         "Value": "5.6000000000000000",
-                        "Type": 3
+                        "Type": 3,
+                        "KeyName": "weight"
                     },
                     {
-                        "Name": "width",
+                        "Name": "Bredde",
                         "Value": "50",
-                        "Type": 4
+                        "Type": 4,
+                        "KeyName": "width"
                     },
                     {
-                        "Name": "length",
+                        "Name": "Lengde",
                         "Value": "2175",
-                        "Type": 4
+                        "Type": 4,
+                        "KeyName": "length"
                     },
                     {
-                        "Name": "height",
+                        "Name": "Høyde",
                         "Value": "50",
-                        "Type": 4
+                        "Type": 4,
+                        "KeyName": "height"
                     },
                     {
-                        "Name": "palletqty",
+                        "Name": "Pallet qty",
                         "Value": "120",
-                        "Type": 4
+                        "Type": 4,
+                        "KeyName": "palletqty"
                     },
                     {
-                        "Name": "gtin",
+                        "Name": "GTIN",
                         "Value": "",
-                        "Type": 5
+                        "Type": 5,
+                        "KeyName": "gtin"
                     },
                     {
-                        "Name": "nobbnumber",
+                        "Name": "NOBB nr",
                         "Value": "",
-                        "Type": 5
+                        "Type": 5,
+                        "KeyName": "nobbnumber"
                     }
                 ],
                 "RecId": 5637809379,
@@ -675,134 +753,160 @@
                 },
                 "AttributeValues": [
                     {
-                        "Name": "material",
+                        "Name": "Material",
                         "Value": "Stål",
-                        "Type": 5
+                        "Type": 5,
+                        "KeyName": "material"
                     },
                     {
-                        "Name": "fdvdocument",
+                        "Name": "FDV dokument",
                         "Value": "",
-                        "Type": 5
+                        "Type": 5,
+                        "KeyName": "fdvdocument"
                     },
                     {
-                        "Name": "materialdescription",
+                        "Name": "Materialbeskrivelse",
                         "Value": "",
-                        "Type": 5
+                        "Type": 5,
+                        "KeyName": "materialdescription"
                     },
                     {
-                        "Name": "producttype",
+                        "Name": "Produkttype",
                         "Value": "Mellompanelklemme",
-                        "Type": 5
+                        "Type": 5,
+                        "KeyName": "producttype"
                     },
                     {
-                        "Name": "dopdocument",
+                        "Name": "DOP dokument",
                         "Value": "",
-                        "Type": 5
+                        "Type": 5,
+                        "KeyName": "dopdocument"
                     },
                     {
-                        "Name": "category",
+                        "Name": "Kategori",
                         "Value": "Klemmer",
-                        "Type": 5
+                        "Type": 5,
+                        "KeyName": "category"
                     },
                     {
-                        "Name": "nobbnumber",
+                        "Name": "NOBB nr",
                         "Value": "",
-                        "Type": 5
+                        "Type": 5,
+                        "KeyName": "nobbnumber"
                     },
                     {
-                        "Name": "description",
+                        "Name": "Beskrivelse",
                         "Value": "Klemme for montering mellom paneler, tilpasset vår stålprofil ECO",
-                        "Type": 5
+                        "Type": 5,
+                        "KeyName": "description"
                     },
                     {
-                        "Name": "productname",
+                        "Name": "Varenavn",
                         "Value": "Solar Mellompanelklemme ECO Sort",
-                        "Type": 5
+                        "Type": 5,
+                        "KeyName": "productname"
                     },
                     {
-                        "Name": "itemnumber",
+                        "Name": "Varenummer",
                         "Value": "114909",
-                        "Type": 5
+                        "Type": 5,
+                        "KeyName": "itemnumber"
                     },
                     {
-                        "Name": "marketingtext",
+                        "Name": "Markedstekst",
                         "Value": "<p>Klemme for feste mellom paneler. Farge sort. Brukes p&aring; anlegg der v&aring;r solarprofil ECO i st&aring;l benyttes</p>\n",
-                        "Type": 5
+                        "Type": 5,
+                        "KeyName": "marketingtext"
                     },
                     {
-                        "Name": "assemblyinstruction",
+                        "Name": "Monteringsanvisning",
                         "Value": "",
-                        "Type": 5
+                        "Type": 5,
+                        "KeyName": "assemblyinstruction"
                     },
                     {
-                        "Name": "gtin",
+                        "Name": "GTIN",
                         "Value": "",
-                        "Type": 5
+                        "Type": 5,
+                        "KeyName": "gtin"
                     },
                     {
-                        "Name": "image",
+                        "Name": "Image",
                         "Value": "Microsoft.Dynamics.Commerce.Runtime.DataModel.RichMediaLocations",
-                        "Type": 41
+                        "Type": 41,
+                        "KeyName": "image"
                     },
                     {
-                        "Name": "cartonqty",
+                        "Name": "Carton qty",
                         "Value": "40",
-                        "Type": 4
+                        "Type": 4,
+                        "KeyName": "cartonqty"
                     },
                     {
-                        "Name": "fdv",
+                        "Name": "FDV",
                         "Value": "",
-                        "Type": 5
+                        "Type": 5,
+                        "KeyName": "fdv"
                     },
                     {
-                        "Name": "materialdescription",
+                        "Name": "Materialbeskrivelse",
                         "Value": "",
-                        "Type": 5
+                        "Type": 5,
+                        "KeyName": "materialdescription"
                     },
                     {
-                        "Name": "width",
+                        "Name": "Bredde",
                         "Value": "0",
-                        "Type": 4
+                        "Type": 4,
+                        "KeyName": "width"
                     },
                     {
-                        "Name": "dopdocument",
+                        "Name": "DOP document",
                         "Value": "",
-                        "Type": 5
+                        "Type": 5,
+                        "KeyName": "dopdocument"
                     },
                     {
-                        "Name": "nobbnumber",
+                        "Name": "NOBB nr",
                         "Value": "",
-                        "Type": 5
+                        "Type": 5,
+                        "KeyName": "nobbnumber"
                     },
                     {
-                        "Name": "height",
+                        "Name": "Høyde",
                         "Value": "0",
-                        "Type": 4
+                        "Type": 4,
+                        "KeyName": "height"
                     },
                     {
-                        "Name": "palletqty",
+                        "Name": "Pallet qty",
                         "Value": "3000",
-                        "Type": 4
+                        "Type": 4,
+                        "KeyName": "palletqty"
                     },
                     {
-                        "Name": "length",
+                        "Name": "Lengde",
                         "Value": "0",
-                        "Type": 4
+                        "Type": 4,
+                        "KeyName": "length"
                     },
                     {
-                        "Name": "weight",
+                        "Name": "Vekt",
                         "Value": "0.1000000000000000",
-                        "Type": 3
+                        "Type": 3,
+                        "KeyName": "weight"
                     },
                     {
-                        "Name": "assemblyinstruction",
+                        "Name": "Assembly instruction",
                         "Value": "",
-                        "Type": 5
+                        "Type": 5,
+                        "KeyName": "assemblyinstruction"
                     },
                     {
-                        "Name": "gtin",
+                        "Name": "GTIN",
                         "Value": "",
-                        "Type": 5
+                        "Type": 5,
+                        "KeyName": "gtin"
                     }
                 ],
                 "RecId": 5637737363,
@@ -845,134 +949,160 @@
                 },
                 "AttributeValues": [
                     {
-                        "Name": "material",
+                        "Name": "Material",
                         "Value": "Stål",
-                        "Type": 5
+                        "Type": 5,
+                        "KeyName": "material"
                     },
                     {
-                        "Name": "producttype",
+                        "Name": "Produkttype",
                         "Value": "Endepanelklemme",
-                        "Type": 5
+                        "Type": 5,
+                        "KeyName": "producttype"
                     },
                     {
-                        "Name": "fdvdocument",
+                        "Name": "FDV dokument",
                         "Value": "",
-                        "Type": 5
+                        "Type": 5,
+                        "KeyName": "fdvdocument"
                     },
                     {
-                        "Name": "materialdescription",
+                        "Name": "Materialbeskrivelse",
                         "Value": "",
-                        "Type": 5
+                        "Type": 5,
+                        "KeyName": "materialdescription"
                     },
                     {
-                        "Name": "gtin",
+                        "Name": "GTIN",
                         "Value": "",
-                        "Type": 5
+                        "Type": 5,
+                        "KeyName": "gtin"
                     },
                     {
-                        "Name": "nobbnumber",
+                        "Name": "NOBB nr",
                         "Value": "",
-                        "Type": 5
+                        "Type": 5,
+                        "KeyName": "nobbnumber"
                     },
                     {
-                        "Name": "itemnumber",
+                        "Name": "Varenummer",
                         "Value": "114907",
-                        "Type": 5
+                        "Type": 5,
+                        "KeyName": "itemnumber"
                     },
                     {
-                        "Name": "dopdocument",
+                        "Name": "DOP dokument",
                         "Value": "",
-                        "Type": 5
+                        "Type": 5,
+                        "KeyName": "dopdocument"
                     },
                     {
-                        "Name": "category",
+                        "Name": "Kategori",
                         "Value": "Klemmer",
-                        "Type": 5
+                        "Type": 5,
+                        "KeyName": "category"
                     },
                     {
-                        "Name": "description",
+                        "Name": "Beskrivelse",
                         "Value": "Panelklemme for bruk med Lobas ECO profil i stål. Farge: Sort",
-                        "Type": 5
+                        "Type": 5,
+                        "KeyName": "description"
                     },
                     {
-                        "Name": "assemblyinstruction",
+                        "Name": "Monteringsanvisning",
                         "Value": "",
-                        "Type": 5
+                        "Type": 5,
+                        "KeyName": "assemblyinstruction"
                     },
                     {
-                        "Name": "marketingtext",
+                        "Name": "Markedstekst",
                         "Value": "<p>Panelklemme for bruk med Lobas` st&aring;lprofil. Dette produkter i kommer i farge sort, finnes ogs&aring; i &quot;natur&quot; (varenr 114908).&nbsp;</p>\n",
-                        "Type": 5
+                        "Type": 5,
+                        "KeyName": "marketingtext"
                     },
                     {
-                        "Name": "productname",
+                        "Name": "Varenavn",
                         "Value": "Solar Panelklemme ECO Sort",
-                        "Type": 5
+                        "Type": 5,
+                        "KeyName": "productname"
                     },
                     {
-                        "Name": "image",
+                        "Name": "Image",
                         "Value": "Microsoft.Dynamics.Commerce.Runtime.DataModel.RichMediaLocations",
-                        "Type": 41
+                        "Type": 41,
+                        "KeyName": "image"
                     },
                     {
-                        "Name": "cartonqty",
+                        "Name": "Carton qty",
                         "Value": "40",
-                        "Type": 4
+                        "Type": 4,
+                        "KeyName": "cartonqty"
                     },
                     {
-                        "Name": "fdv",
+                        "Name": "FDV",
                         "Value": "",
-                        "Type": 5
+                        "Type": 5,
+                        "KeyName": "fdv"
                     },
                     {
-                        "Name": "materialdescription",
+                        "Name": "Materialbeskrivelse",
                         "Value": "",
-                        "Type": 5
+                        "Type": 5,
+                        "KeyName": "materialdescription"
                     },
                     {
-                        "Name": "gtin",
+                        "Name": "GTIN",
                         "Value": "",
-                        "Type": 5
+                        "Type": 5,
+                        "KeyName": "gtin"
                     },
                     {
-                        "Name": "length",
+                        "Name": "Lengde",
                         "Value": "0",
-                        "Type": 4
+                        "Type": 4,
+                        "KeyName": "length"
                     },
                     {
-                        "Name": "nobbnumber",
+                        "Name": "NOBB nr",
                         "Value": "",
-                        "Type": 5
+                        "Type": 5,
+                        "KeyName": "nobbnumber"
                     },
                     {
-                        "Name": "dopdocument",
+                        "Name": "DOP document",
                         "Value": "",
-                        "Type": 5
+                        "Type": 5,
+                        "KeyName": "dopdocument"
                     },
                     {
-                        "Name": "width",
+                        "Name": "Bredde",
                         "Value": "0",
-                        "Type": 4
+                        "Type": 4,
+                        "KeyName": "width"
                     },
                     {
-                        "Name": "height",
+                        "Name": "Høyde",
                         "Value": "0",
-                        "Type": 4
+                        "Type": 4,
+                        "KeyName": "height"
                     },
                     {
-                        "Name": "assemblyinstruction",
+                        "Name": "Assembly instruction",
                         "Value": "",
-                        "Type": 5
+                        "Type": 5,
+                        "KeyName": "assemblyinstruction"
                     },
                     {
-                        "Name": "palletqty",
+                        "Name": "Pallet qty",
                         "Value": "3000",
-                        "Type": 4
+                        "Type": 4,
+                        "KeyName": "palletqty"
                     },
                     {
-                        "Name": "weight",
+                        "Name": "Vekt",
                         "Value": "0.1200000000000000",
-                        "Type": 3
+                        "Type": 3,
+                        "KeyName": "weight"
                     }
                 ],
                 "RecId": 5637737347,
