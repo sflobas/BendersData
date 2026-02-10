@@ -1,0 +1,191 @@
+{
+    "Types": [
+        {
+            "TypeId": 1,
+            "RoofCoverings": [
+                {
+                    "Manufacturers": [
+                        {
+                            "Models": [
+                                {
+                                    "RoofItemReferences": [
+                                        {
+                                            "Product": 1,
+                                            "RecId": 1,
+                                            "Images": null,
+                                            "Key": "EcoResProductTranslation.5637163383"
+                                        },
+                                        {
+                                            "Product": 2,
+                                            "RecId": 2,
+                                            "Images": null,
+                                            "Key": "EcoResProductTranslation.5637163383"
+                                        },
+                                        {
+                                            "Product": 3,
+                                            "RecId": 3,
+                                            "Images": null,
+                                            "Key": "EcoResProductTranslation.5637163383"
+                                        },
+                                        {
+                                            "Product": 5637163383,
+                                            "RecId": 5637152101,
+                                            "Images": null,
+                                            "Key": "EcoResProductTranslation.5637163383"
+                                        },
+                                        {
+                                            "Product": 5637163395,
+                                            "RecId": 5637152079,
+                                            "Images": null,
+                                            "Key": "EcoResProductTranslation.5637163395"
+                                        },
+                                        {
+                                            "Product": 5637163433,
+                                            "RecId": 5637152077,
+                                            "Images": null,
+                                            "Key": "EcoResProductTranslation.5637163433"
+                                        },
+                                        {
+                                            "Product": 5637163445,
+                                            "RecId": 5637152085,
+                                            "Images": null,
+                                            "Key": "EcoResProductTranslation.5637163445"
+                                        },
+                                        {
+                                            "Product": 5637163447,
+                                            "RecId": 5637152087,
+                                            "Images": null,
+                                            "Key": "EcoResProductTranslation.5637163447"
+                                        },
+                                        {
+                                            "Product": 5637163458,
+                                            "RecId": 5637152095,
+                                            "Images": null,
+                                            "Key": "EcoResProductTranslation.5637163458"
+                                        },
+                                        {
+                                            "Product": 5637163459,
+                                            "RecId": 5637152093,
+                                            "Images": null,
+                                            "Key": "EcoResProductTranslation.5637163459"
+                                        },
+                                        {
+                                            "Product": 5637163462,
+                                            "RecId": 5637152081,
+                                            "Images": null,
+                                            "Key": "EcoResProductTranslation.5637163462"
+                                        },
+                                        {
+                                            "Product": 5637164313,
+                                            "RecId": 5637152110,
+                                            "Images": null,
+                                            "Key": "EcoResProductTranslation.5637164313"
+                                        },
+                                        {
+                                            "Product": 5637164349,
+                                            "RecId": 5637152091,
+                                            "Images": null,
+                                            "Key": "EcoResProductTranslation.5637164349"
+                                        },
+                                        {
+                                            "Product": 5637164455,
+                                            "RecId": 5637152099,
+                                            "Images": null,
+                                            "Key": "EcoResProductTranslation.5637164455"
+                                        },
+                                        {
+                                            "Product": 5637164523,
+                                            "RecId": 5637152097,
+                                            "Images": null,
+                                            "Key": "EcoResProductTranslation.5637164523"
+                                        },
+                                        {
+                                            "Product": 5637164590,
+                                            "RecId": 5637152111,
+                                            "Images": null,
+                                            "Key": "EcoResProductTranslation.5637164590"
+                                        },
+                                        {
+                                            "Product": 5637164796,
+                                            "RecId": 5637152089,
+                                            "Images": null,
+                                            "Key": "EcoResProductTranslation.5637164796"
+                                        },
+                                        {
+                                            "Product": 5637167108,
+                                            "RecId": 5637152107,
+                                            "Images": null,
+                                            "Key": "EcoResProductTranslation.5637167108"
+                                        },
+                                        {
+                                            "Product": 5637490793,
+                                            "RecId": 5637152083,
+                                            "Images": null,
+                                            "Key": "EcoResProductTranslation.5637490793"
+                                        },
+                                        {
+                                            "Product": 5637492133,
+                                            "RecId": 5637152106,
+                                            "Images": null,
+                                            "Key": "EcoResProductTranslation.5637492133"
+                                        },
+                                        {
+                                            "Product": 5637675124,
+                                            "RecId": 5637152104,
+                                            "Images": null,
+                                            "Key": "EcoResProductTranslation.5637675124"
+                                        },
+                                        {
+                                            "Product": 5637734400,
+                                            "RecId": 5637156586,
+                                            "Images": null,
+                                            "Key": "EcoResProductTranslation.5637734400"
+                                        },
+                                        {
+                                            "Product": 5637734401,
+                                            "RecId": 5637156587,
+                                            "Images": null,
+                                            "Key": "EcoResProductTranslation.5637734401"
+                                        },
+                                        {
+                                            "Product": 5637765948,
+                                            "RecId": 5637157327,
+                                            "Images": null,
+                                            "Key": "EcoResProductTranslation.5637765948"
+                                        }
+                                    ],
+                                    "MaxRowDistance": "375",
+                                    "MinRowDistance": "310",
+                                    "ProfileWidth": "300",
+                                    "CoverWidth": "300",
+                                    "Thickness": "12",
+                                    "RecId": 5637144640,
+                                    "Images": [
+                                        "https://images-eu-prod.cms.commerce.dynamics.com/cms/api/gkvlchkxcr/imageFileData/search?fileName=Palema.png"
+                                    ],
+                                    "Key": "LOBRoofManufacturerModelTranslation.5637144640"
+                                }
+                            ],
+                            "RecId": 5637144593,
+                            "Images": [
+                                "https://images-eu-prod.cms.commerce.dynamics.com/cms/api/gkvlchkxcr/imageFileData/search?fileName=Benders.png"
+                            ],
+                            "Key": "LOBRoofManufacturerTranslation.5637144593"
+                        }
+                    ],
+                    "Templates": [],
+                    "RecId": 5637144580,
+                    "Images": [
+                        "https://images-eu-prod.cms.commerce.dynamics.com/cms/api/gkvlchkxcr/imageFileData/search?fileName=Betongstein.png"
+                    ],
+                    "Key": "LOBRoofCoveringTranslation.5637144580"
+                }
+            ],
+            "RecId": 5637144576,
+            "Images": [
+                "https://images-eu-prod.cms.commerce.dynamics.com/cms/api/gkvlchkxcr/imageFileData/search?fileName=Skråtak.png"
+            ],
+            "Key": "LOBRoofTypeTranslation.5637144576"
+        }
+    ]
+}
