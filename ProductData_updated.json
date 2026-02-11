@@ -475,7 +475,7 @@
                         "Name": "Posisjon",
                         "Value": "ST%Lag-2|STRU%Lag-1",
                         "Type": 5,
-                        "KeyName": "position"
+                        "KeyName": "posisjon"
                     },
                     {
                         "Name": "Markedstekst",
@@ -607,13 +607,13 @@
                         "Name": "Materialegenskap",
                         "Value": "245",
                         "Type": 4,
-                        "KeyName": "materialproperty"
+                        "KeyName": "materialegenskap"
                     },
                     {
                         "Name": "Profiltype",
                         "Value": "8",
                         "Type": 4,
-                        "KeyName": "profiletype"
+                        "KeyName": "profiltype"
                     },
                     {
                         "Name": "Section modulus",
